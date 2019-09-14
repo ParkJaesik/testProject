@@ -18,6 +18,7 @@
 	</c:if>
 	
 	<h1 align="center">Finally Last Subject Spring!!</h1>
+	태ㅔ슽ㄹ
 	<br>
 	
 	<!-- 로그인유저가 있는 경우 없는 경우 동시에 작업 -->
